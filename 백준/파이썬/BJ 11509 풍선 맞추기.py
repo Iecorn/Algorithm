@@ -12,4 +12,3 @@ for i in balloons:
         flag[i-1] += 1
 
 print(sum(flag))
-
