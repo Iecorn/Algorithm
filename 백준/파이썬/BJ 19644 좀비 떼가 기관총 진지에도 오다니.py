@@ -68,7 +68,7 @@ if ans:  # 아직 살아남을 가능성이 있고
 if ans:
     print("YES")
 else:
-#     print("NO")
+    print("NO")
 #
 # import sys
 # from collections import deque
