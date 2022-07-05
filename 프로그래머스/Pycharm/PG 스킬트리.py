@@ -21,3 +21,5 @@ def solution(skill : str, skill_trees : List[str]):
     return answer
 
 print(solution("CBD", ["BACDE", "CBADF", "AECB", "BDA"]))
+
+
